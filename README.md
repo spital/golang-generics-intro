@@ -25,7 +25,7 @@ alias go=gotip
 ## Test
 
 ```bash
-go test  # TODO add tests + Fuzzy testing too 
+go test -v  # TODO try Fuzzy testing too 
 ```
 
 ## Build and Run
